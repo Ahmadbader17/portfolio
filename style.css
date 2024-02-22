@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', monospace;
+    background-color: #e8e8e8; /* Dull shade of retro white */
+    color: #333; /* Text color, adjusted for better contrast */
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #ccc; /* Adjusted background color for header */
+    color: #333;
+    text-align: center;
+    padding: 20px 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+.main-section, .projects-section {
+    background-color: #ddd; /* Adjusted background color for sections */
+    color: #333;
+    padding: 20px 0;
+}
+
+h2 {
+    color: #333;
+}
+
+.project {
+    border: 1px solid #bbb; /* Adjusted border color for projects */
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #ccc; /* Adjusted background color for footer */
+    color: #333;
+    text-align: center;
+    padding: 10px 0;
+}
